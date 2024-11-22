@@ -1,0 +1,15 @@
+{
+  "timeZone": "en-US",
+  "isSkipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "isDoTasks": true,
+  "isPlayGames": true,
+  "referralCode": "",
+  "amountOfEngeryLimitUpgrade": 1,
+  "amountOfMultiClickUpgrade": 1,
+  "amountOfAutoClickUpgrade": 1,
+  "amountOfRechargingSpeedUpgrade": 1,
+  "isBugPoints": true
+}
