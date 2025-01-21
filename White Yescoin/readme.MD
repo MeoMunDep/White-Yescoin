@@ -41,19 +41,19 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-  "isBugPoints": true,
-  "amountOfEngeryLimitUpgrade": 1,
-  "amountOfMultiClickUpgrade": 1,
-  "amountOfAutoClickUpgrade": 1,
-  "amountOfRechargingSpeedUpgrade": 1,
   "timeZone": "en-US",
+  "isSkipInvalidProxy": false,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
-  "numberOfAccountsRunInOneTime": 100,
+  "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "isPlayingGames": true,
-  "referralCode": "" // Your referral code, dont change it if you want to help me ^^
+  "amountOfEngeryLimitUpgrade": 10,
+  "amountOfMultiClickUpgrade": 10,
+  "amountOfAutoClickUpgrade": 10,
+  "amountOfRechargingSpeedUpgrade": 10,
+  "isBugPoints": true
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
@@ -65,6 +65,9 @@ query_id.../user...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 
 ```txt - wallet address
 abc...xyz
@@ -84,6 +87,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd "white yescoin-main/white yescoin"; node bot`
+> To run the bot, use the following command: `cd "white yescoin-main/white yescoin"; node meomundep`
 
 🎇Enjoy!

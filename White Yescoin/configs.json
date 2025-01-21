@@ -5,11 +5,9 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "isPlayGames": true,
-  "referralCode": "",
-  "amountOfEngeryLimitUpgrade": 1,
-  "amountOfMultiClickUpgrade": 1,
-  "amountOfAutoClickUpgrade": 1,
-  "amountOfRechargingSpeedUpgrade": 1,
+  "amountOfEngeryLimitUpgrade": 10,
+  "amountOfMultiClickUpgrade": 10,
+  "amountOfAutoClickUpgrade": 10,
+  "amountOfRechargingSpeedUpgrade": 10,
   "isBugPoints": true
 }

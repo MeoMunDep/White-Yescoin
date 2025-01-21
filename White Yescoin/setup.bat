@@ -97,7 +97,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd "white yescoin" && node bot
+node MeoMunDep
 pause
 goto MENU
 
