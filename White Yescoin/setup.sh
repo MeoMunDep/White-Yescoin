@@ -31,16 +31,14 @@ create_default_configs() {
     cat > configs.json << EOL
 {
   "timeZone": "en-US",
-  "isSkipInvalidProxy": false,
-  "delayEachAccount": [5, 8],
+  "isSkipInvalidProxy": true,
+  "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "isPlayGames": true,
-  "referralCode": "",
-  "amountOfEngeryLimitUpgrade": 10,
-  "amountOfMultiClickUpgrade": 10,
+  "amountOfTapBotUpgrade": 10,
   "amountOfAutoClickUpgrade": 10,
+  "amountOfEngeryLimitUpgrade": 10,
   "amountOfRechargingSpeedUpgrade": 10,
   "isBugPoints": true
 }
