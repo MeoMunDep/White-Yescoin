@@ -43,9 +43,9 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "timeZone": "en-US",
   "isSkipInvalidProxy": true,
-  "delayEachAccount": [1, 1],
+  "delayEachAccount": [1, 10],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 100,
+  "howManyAccountsRunInOneTime": 1,
   "isDoTasks": true,
   "amountOfTapBotUpgrade": 10,
   "amountOfAutoClickUpgrade": 10,
