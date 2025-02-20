@@ -28,7 +28,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid
+   npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent puppeteer
    ```
 
 2. **Prepare Configuration Files:**
@@ -42,17 +42,18 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 ```json
 {
   "timeZone": "en-US",
-  "isSkipInvalidProxy": false,
-  "delayEachAccount": [5, 8],
+  "isSkipInvalidProxy": true,
+  "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "amountOfEngeryLimitUpgrade": 10,
-  "amountOfMultiClickUpgrade": 10,
+  "amountOfTapBotUpgrade": 10,
   "amountOfAutoClickUpgrade": 10,
+  "amountOfEngeryLimitUpgrade": 10,
   "amountOfRechargingSpeedUpgrade": 10,
   "isBugPoints": true
 }
+
 
 ```
 
